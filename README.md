@@ -1,4 +1,4 @@
-# Hubes.Pinger
+# Hubes.Ping
 Ping is a way you can exfiltrate data from a host to a remote host.
 
 My goals for this small project are to:
