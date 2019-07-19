@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Net.NetworkInformation;
+using System.Net.Sockets;
+using System.Text;
 
 namespace Hubes.Pingee
 {
@@ -6,7 +9,7 @@ namespace Hubes.Pingee
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
